@@ -1,0 +1,136 @@
+const electrons = [
+  {
+    userId: "1",
+    timestamp: 1730221467,
+    pointsAdjustment: 200,
+    reason: "Onboarding",
+  },
+  {
+    userId: "1",
+    timestamp: 1730221497,
+    pointsAdjustment: -100,
+    reason: "Voucher redeemed",
+  },
+  {
+    userId: "1",
+    timestamp: 1730221527,
+    pointsAdjustment: 100,
+    reason: "Quiz complete",
+  },
+  {
+    userId: "1",
+    timestamp: 1730221537,
+    pointsAdjustment: 100,
+    reason: "Quiz complete",
+  },
+  {
+    userId: "1",
+    timestamp: 1730221557,
+    pointsAdjustment: -100,
+    reason: "Voucher redeemed",
+  },
+  {
+    userId: "2",
+    timestamp: 1730221577,
+    pointsAdjustment: 200,
+    reason: "Onboarding",
+  },
+  {
+    userId: "2",
+    timestamp: 1730221590,
+    pointsAdjustment: -100,
+    reason: "Voucher redeemed",
+  },
+  {
+    userId: "2",
+    timestamp: 1730221600,
+    pointsAdjustment: 100,
+    reason: "Quiz complete",
+  },
+  {
+    userId: "3",
+    timestamp: 1730221700,
+    pointsAdjustment: 200,
+    reason: "Onboarding",
+  },
+  {
+    userId: "4",
+    timestamp: 1730221800,
+    pointsAdjustment: 200,
+    reason: "Onboarding",
+  },
+  {
+    userId: "4",
+    timestamp: 1730221900,
+    pointsAdjustment: -100,
+    reason: "Voucher redeemed",
+  },
+  {
+    userId: "4",
+    timestamp: 1730222000,
+    pointsAdjustment: -100,
+    reason: "Voucher redeemed",
+  },
+  {
+    userId: "4",
+    timestamp: 1730222100,
+    pointsAdjustment: 100,
+    reason: "Quiz complete",
+  },
+  {
+    userId: "5",
+    timestamp: 1730222200,
+    pointsAdjustment: 200,
+    reason: "Onboarding",
+  },
+  {
+    userId: "5",
+    timestamp: 1730222300,
+    pointsAdjustment: -100,
+    reason: "Voucher redeemed",
+  },
+  {
+    userId: "5",
+    timestamp: 1730222400,
+    pointsAdjustment: -100,
+    reason: "Voucher redeemed",
+  },
+  {
+    userId: "5",
+    timestamp: 1730222500,
+    pointsAdjustment: 100,
+    reason: "Quiz complete",
+  },
+  {
+    userId: "6",
+    timestamp: 1730222600,
+    pointsAdjustment: 200,
+    reason: "Onboarding",
+  },
+  {
+    userId: "6",
+    timestamp: 1730222700,
+    pointsAdjustment: -100,
+    reason: "Voucher redeemed",
+  },
+  {
+    userId: "6",
+    timestamp: 1730222800,
+    pointsAdjustment: 100,
+    reason: "Quiz complete",
+  },
+  {
+    userId: "7",
+    timestamp: 1730222900,
+    pointsAdjustment: 200,
+    reason: "Onboarding",
+  },
+  {
+    userId: "7",
+    timestamp: 1730223000,
+    pointsAdjustment: -100,
+    reason: "Voucher redeemed",
+  },
+];
+
+module.exports = electrons;
