@@ -4,9 +4,11 @@ This repository contains the skeleton React project you'll need for the MOEV tec
 
 ## Repository setup
 
-Run `npm install` to install the dependencies
+Run `npm install` to install the dependencies in both the frontend and backend directories
 
-Run `npm run dev` to launch the application
+Run `npm run dev` to launch the application frontend (from /frontend)
+
+Run `npm run dev` to launch the application backend (from /backend)
 
 ## Interview instructions
 
